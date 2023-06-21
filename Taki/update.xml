@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.2.8</version>
-    <url>https://github.com/huynhchinh307/Taki/raw/main/Update/update.zip</url>
-    <changelog>https://raw.githubusercontent.com/huynhchinh307/Taki/main/Update/log.md</changelog>
-    <mandatory>false</mandatory>
+    <url>https://github.com/huynhchinh307/AppUpdate/raw/main/Taki/update.zip</url>
+    <changelog>https://raw.githubusercontent.com/huynhchinh307/AppUpdate/main/Taki/README.md</changelog>
+    <mandatory>true</mandatory>
 </item>
