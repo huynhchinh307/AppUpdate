@@ -1,4 +1,6 @@
-Version 1.1.1
-Fix
-	- Không thể add thêm tài khoản khi bị trùng tên
-	- Không thể add thêm tài khoản khi bị hết giới thiệu
+#### Version 1.0.0
+```sh
+✅ Bổ sung chức năng
+❌ Loại bỏ chức năng
+```
+
